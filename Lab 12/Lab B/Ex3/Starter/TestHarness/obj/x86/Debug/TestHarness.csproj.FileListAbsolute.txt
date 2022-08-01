@@ -12,3 +12,12 @@ E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.pdb
 E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.dll
 E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.pdb
 E:\Labfiles\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.exe
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\TestHarness.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.dll
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\bin\Debug\BinaryTree.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.csproj.AssemblyReference.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.csproj.CoreCompileInputs.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.csproj.CopyComplete
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.exe
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\CSharpGAZCourse\Lab 12\Lab B\Ex3\Starter\TestHarness\obj\x86\Debug\TestHarness.pdb
