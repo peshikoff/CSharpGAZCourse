@@ -1,0 +1,16 @@
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Matrix\bin\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Matrix\bin\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Matrix\obj\x86\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Lab C\Ex3\Starter\Matrix\obj\x86\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\bin\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\bin\Debug\Exercise3.pdb
+E:\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Exercise3.dll
+E:\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Exercise3.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\bin\Debug\Exercise3.dll
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\bin\Debug\Exercise3.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Matrix.csproj.AssemblyReference.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Matrix.csproj.CoreCompileInputs.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Exercise3.dll
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 10\Lab C\Ex2\Starter\Matrix\obj\x86\Debug\Exercise3.pdb

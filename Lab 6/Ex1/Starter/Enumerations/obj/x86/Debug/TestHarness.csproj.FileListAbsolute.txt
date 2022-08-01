@@ -1,0 +1,31 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\bin\Debug\Enumerations.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\bin\Debug\Enumerations.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\MainWindow.baml
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\App.g.cs
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\Enumerations_MarkupCompile.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\Enumerations.g.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\Enumerations.Properties.Resources.resources
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\Enumerations.exe
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\Enumerations\obj\x86\Debug\Enumerations.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\bin\Debug\Enumerations.exe
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\bin\Debug\Enumerations.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\bin\Debug\StressTest.dll
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\bin\Debug\StressTest.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\TestHarness.csproj.AssemblyReference.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\MainWindow.baml
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\MainWindow.g.cs
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\App.g.cs
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations_MarkupCompile.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations.g.resources
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations.Properties.Resources.resources
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\TestHarness.csproj.GenerateResource.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\TestHarness.csproj.CoreCompileInputs.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\TestHarness.csproj.CopyComplete
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations.exe
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\Enumerations\obj\x86\Debug\Enumerations.pdb

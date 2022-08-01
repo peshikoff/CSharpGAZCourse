@@ -1,0 +1,16 @@
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\bin\Debug\IntegerToBinaty.exe.config
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\bin\Debug\IntegerToBinaty.exe
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\bin\Debug\IntegerToBinaty.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty.csproj.AssemblyReference.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty.csproj.SuggestedBindingRedirects.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\MainWindow.g.cs
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\App.g.cs
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty_MarkupCompile.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty_MarkupCompile.lref
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\MainWindow.baml
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty.g.resources
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty.Properties.Resources.resources
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty.csproj.GenerateResource.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty.csproj.CoreCompileInputs.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty.exe
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 2\Ex2\Starter\IntegerToBinaty\IntegerToBinaty\obj\Debug\IntegerToBinaty.pdb

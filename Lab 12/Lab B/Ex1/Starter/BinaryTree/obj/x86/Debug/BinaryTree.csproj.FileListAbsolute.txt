@@ -1,0 +1,6 @@
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\bin\Debug\BinaryTree.dll
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\bin\Debug\BinaryTree.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.csproj.AssemblyReference.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.dll
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.pdb

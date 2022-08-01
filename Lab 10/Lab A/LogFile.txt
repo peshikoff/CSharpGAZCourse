@@ -1,0 +1,15 @@
+Log file status checked - Opened
+Collecting Started
+Log File Changed Successfully
+Measurement Taken: 846
+Measurement Taken: 1077
+Measurement Taken: 1099
+Measurement Taken: 52
+Measurement Taken: 230
+Measurement Taken: 898
+Measurement Taken: 989
+Measurement Taken: 318
+Measurement Taken: 1019
+Measurement Taken: 212
+Log File Changed
+New Log File: E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 10\Lab A\LogFile2.txt

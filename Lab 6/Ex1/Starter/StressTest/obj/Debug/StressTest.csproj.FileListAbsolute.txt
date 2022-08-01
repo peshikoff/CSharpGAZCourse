@@ -1,0 +1,11 @@
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\StressTest\bin\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\StressTest\bin\Debug\StressTest.pdb
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\StressTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\StressTest\obj\Debug\StressTest.dll
+C:\Users\Dominic\Documents\Visual Studio 2010\Projects\Module6\Ex 1 - Enumerations\Solution\StressTest\obj\Debug\StressTest.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\StressTest\bin\Debug\StressTest.dll
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\StressTest\bin\Debug\StressTest.pdb
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\StressTest\obj\Debug\StressTest.csproj.AssemblyReference.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\StressTest\obj\Debug\StressTest.csproj.CoreCompileInputs.cache
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\StressTest\obj\Debug\StressTest.dll
+E:\учебка\4 семестр\GAZ\С\Labfiles\Labfiles\Lab 6\Ex1\Starter\StressTest\obj\Debug\StressTest.pdb

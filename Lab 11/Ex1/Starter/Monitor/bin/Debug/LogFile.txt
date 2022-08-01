@@ -1,0 +1,23 @@
+Log file status checked - Opened
+Collecting Started
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Collecting Stopped
+Measurement - {0}, mostRecentMeasure.ToString();
+Log file status checked - Already open
+Collecting Started
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToString();
+Measurement - {0}, mostRecentMeasure.ToS
